@@ -26,4 +26,4 @@ This is a Netflix clone built with React.js, Redux for state management, Firebas
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/netflix-clone.git
+   https://github.com/sandroalfonso/netflix-clone.git
